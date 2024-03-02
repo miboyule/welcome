@@ -1,3 +1,19 @@
+Vultr充值35美元送100美元注册链接：
+https://www.vultr.com/?ref=9528177-8H
+
+VPS服务器系统选择
+Ubuntu 23.04
+
+V2Ray一键安装代码：
+bash <(curl -s -L https://git.io/v2ray-setup.sh)
+
+放行端口
+sudo ufw allow 25757
+
+使用到的工具：
+finalShell下载（含MAC版）：
+http://www.hostbuf.com/t/988.html
+
 <h1>翻墙软件下载</h1>
 <p>请大家根据使用的系统下载对应的软件，主流的翻墙软件是V2ray、Clash、Shadowrocket<br>
 翻墙软件使用教程：<a href="https://www.youtube.com/@kjfx6" target="_blank">点击打开>></a>
